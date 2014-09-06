@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "OneUp": {
+            "applicationId": "DL2ehrNzlxPH5zkXuXyJEmCaq71zqG46DyhPT3kv", 
+            "masterKey": "AVkTnczN8ktrTaMdSRDnHffP5M2BMjljJrQRBs80"
+        }, 
+        "_default": {
+            "link": "OneUp"
+        }
+    }
+}
